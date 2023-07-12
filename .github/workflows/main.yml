@@ -30,4 +30,5 @@ jobs:
                   context: .
                   file: ./Dockerfile
                   push: true
+                  tags: $/clockboxi:latest
              
