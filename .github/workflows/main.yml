@@ -30,4 +30,4 @@ jobs:
                   context: .
                   file: ./Dockerfile
                   push: true
-                  tags: 16
+                  tags: $sunnatqarshiboyev/image:latest
